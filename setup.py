@@ -8,7 +8,7 @@ def read(fname):
         return ''
 
 setup(name='django-adminstat',
-    version=__import__('djangoadminstat').__version__,
+    version=__import__('adminstat').__version__,
     long_description=read('README'),
     description=read('DESCRIPTION'),
     classifiers=[
