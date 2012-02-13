@@ -1,1 +1,1 @@
-Django's LogEntry objects admin class
+../../README.rst
